@@ -1,7 +1,7 @@
 {
   "name": "ky23",
   "version": "2.0.0",
-  "description": "A project of vuepress-theme-hope",
+  "description": "一个考研人的笔记",
   "license": "MIT",
   "scripts": {
     "docs:build": "vuepress build src",
