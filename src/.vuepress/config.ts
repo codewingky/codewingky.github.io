@@ -62,11 +62,6 @@ export default defineUserConfig({
       },
     }),
 
-
-    photoSwipePlugin({
-      options: {
-        
-      }
-    }),
+    photoSwipePlugin(),
   ],
 });
