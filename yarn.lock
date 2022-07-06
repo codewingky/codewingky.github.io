@@ -4353,7 +4353,7 @@ vuepress-plugin-md-enhance@2.0.0-beta.84:
     vuepress-plugin-sass-palette "2.0.0-beta.84"
     vuepress-shared "2.0.0-beta.84"
 
-vuepress-plugin-photo-swipe@2.0.0-beta.84, vuepress-plugin-photo-swipe@^2.0.0-beta.84:
+vuepress-plugin-photo-swipe@2.0.0-beta.84:
   version "2.0.0-beta.84"
   resolved "https://registry.npmmirror.com/vuepress-plugin-photo-swipe/-/vuepress-plugin-photo-swipe-2.0.0-beta.84.tgz#1a48cd07d415724fd79200a097cec6e432268961"
   integrity sha512-1gZ0IlfpLdnWU3iy4q1PNhdezI1O8V1f9lj1eEf7zk6YJVxmJJBOtYfk7btq9jvUThdLFEAKP6Yv02QyGbrXVA==

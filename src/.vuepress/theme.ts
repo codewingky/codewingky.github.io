@@ -53,5 +53,6 @@ export default hopeTheme({
       imageMark: true,
       tex: true,
     },
+
   },
 });
