@@ -13,9 +13,9 @@ export default defineUserConfig({
 
   plugins: [
     docsearchPlugin({
-      appId: "",
-      apiKey: "",
-      indexName: "Ying",
+      appId: "48TTY0IZDO",
+      apiKey: "fa4a88abfedfdf298be659490175f9af",
+      indexName: "Mr.Ying",
       locales: {
         "/": {
           placeholder: "搜索",

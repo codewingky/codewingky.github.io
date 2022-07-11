@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "默认页脚",
+  footer: "考研人的笔记",
 
   displayFooter: true,
 
